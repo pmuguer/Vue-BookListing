@@ -10,7 +10,7 @@
 export default {
     name: 'BookForm',
     props: [
-        'book',
+        'books',
     ],
     data() {
         return {
