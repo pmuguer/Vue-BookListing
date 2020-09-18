@@ -9,7 +9,7 @@ export default {
 }
 </script>
 
-<style lang="stylus" scoped>
+<style scoped>
 li {
     display: block;
     margin: 0 10px;
